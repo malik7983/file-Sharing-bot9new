@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/malik7983/File-Sharing-Bot9",
-    "repository": "https://github.com/malik7983/File-Sharing-Bot9",
+    "repository": "https://github.com/savezmalik7960/File-Sharing-Bot9",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
